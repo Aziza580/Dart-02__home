@@ -1,5 +1,5 @@
 class Book{
-  String _title;
+  String _title; //_ инкапсуляция
   String _author;
   double _raiting = 0;
 
